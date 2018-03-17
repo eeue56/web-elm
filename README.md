@@ -1,6 +1,6 @@
 # Servelm - Elm Http Server
 
-# Deprecated. Server side elm is not designed to work this way.
+# Deprecated. [Elm is not designed to work this way.](//github.com/eeue56/take-home#should-i-use-this-in-production)
 
 
 
